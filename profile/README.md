@@ -2,7 +2,7 @@
 
 An integrated, trustworthy multisig infrastructure designed to empower protocols and businesses.
 
-Connect wit us!
+Connect with us!
 <!--
 
 **Here are some ideas to get you started:**
