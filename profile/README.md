@@ -1,15 +1,11 @@
-# Welcome to the future of asset security
+# Top-tier web3 development for the Fuel Network ecosystem
 
-An integrated, trustworthy multisig infrastructure designed to empower protocols and businesses.
+Bringing a deep understanding of Fuel’s advanced architecture, we ensure the creation of robust, scalable, and secure core solutions, such as:
 
-Connect with us!
-<!--
+- [⛽️Fuel Connector:](https://github.com/Bako-Labs/fuel-connectors) the native wallet connector for all Fuel applications, enabling the use of external wallets from multiple networks to sign transactions on Fuel.
+- [🔐Bako Safe:](https://github.com/Bako-Labs/bako-safe) the simplicity of a smart wallet with the unmatched safety of a multisig — all in one place. The native asset management solution designed for Fuel and beyond. The Bako Safe SDK manages all the logic of the Bako Safe multisig wallet, from within a dApp.
+- [👤Bako ID:](https://github.com/Bako-Labs/bako-id) a native naming system across the Fuel ecosystem, enabling users to bridge their web2 handles to web3.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Get in touch with us at 🔗https://www.infinitybase.com
